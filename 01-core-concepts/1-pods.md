@@ -1,4 +1,3 @@
-# Understanding Pods in Kubernetes
 
 ### **What is a Pod?**
 
@@ -96,8 +95,3 @@ spec:
 In this example:
 - A Pod named `my-pod` runs a single container with the `nginx` image.
 - The container exposes port `80`.
-
----
-
-Let me know if you'd like further details or examples related to Pods!
-
